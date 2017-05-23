@@ -1,0 +1,3 @@
+#Generates fractals in browser
+- Playing around with game loops, canvas etc
+- Would like to make something a bit more interesting like this at some point...
